@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 - I’m Hiroki Sato, a master's in computer science student at Indiana University at Bloomington.
 - 👀 I’m interested in software engineering and machine learning, deep learning.
 - 🌱 I’m currently learning applied machine learning to gain knowledge of contemporary machine learning libraries such as sklearn and pytorch, as well as learning computer networks!
