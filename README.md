@@ -1,9 +1,10 @@
-<p align="center">
-### Hi there I am Hiroki Sato👋
-#### I am a master's in computer science student at Indiana University at Bloomington. Go Hoosiers!
-</p>
-
-
+<h3 align="center">
+Hi there I am Hiroki Sato👋
+</h3>
+<h4>
+I am a master's in computer science student at Indiana University at Bloomington. Go Hoosiers!
+</h4>
+---
 - 👀 I’m interested in software engineering and machine learning, deep learning.
 - 🌱 I have worked on project such as 
 - 💞️ I’m looking to collaborate on development web-application using apache cordova or react native for my new personal project!
