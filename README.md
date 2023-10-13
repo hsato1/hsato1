@@ -10,7 +10,7 @@ Hi there I am Hiroki Sato👋
 - ✨ I am a master's in computer science student at Indiana University at Bloomington.
 - 👀 I’m interested in signal processing and deep learning.
 - 🌱 You can check out the project I've worked here in the repo!
-- 💞️ I’m looking for a software engineering internship, research opportunity for summer 2023
+- 💞️ I’m looking for research opportunities for summer 2024
 - 📫 Send me any inquiries! hirosato@iu.edu 
 
 <!---
